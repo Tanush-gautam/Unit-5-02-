@@ -3,11 +3,11 @@ function myFunction() {
 }
 
 function button() {
-  document.getElementById("picture-of-my-favirot-game").src="./Images/Barry Bonson .jpeg"
+  document.getElementById("picture-of-my-favirot-game").src="./Images/Barry Bonson .jpeg";
 }
 
-function  button2() {
-  document.getElementById("background").style.backgroundColor ="gray"
+function button2() {
+  document.getElementById("background").style.backgroundColor ="gray";
 }
 
 function button3() {
